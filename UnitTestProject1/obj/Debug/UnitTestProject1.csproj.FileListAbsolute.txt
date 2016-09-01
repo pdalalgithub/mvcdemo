@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\OrganizationDetails\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\OrganizationDetails\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\OrganizationDetails\UnitTestProject1\bin\Debug\Ionic.Zip.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\OrganizationDetails\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\OrganizationDetails\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\OrganizationDetails\UnitTestProject1\bin\Debug\WebDriver.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\OrganizationDetails\UnitTestProject1\bin\Debug\WebDriver.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\OrganizationDetails\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\OrganizationDetails\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\OrganizationDetails\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\OrganizationDetails\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
